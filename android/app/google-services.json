@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632168061226",
+    "project_id": "chatbot-65d6f",
+    "storage_bucket": "chatbot-65d6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632168061226:android:d9fca2537acbeb2d456653",
+        "android_client_info": {
+          "package_name": "com.masum.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632168061226-odpargb0h9e8f7e8bjvolrhlvmd611tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeu_knEJRNS_SWdN81_hWcBhjul9JQvqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632168061226-odpargb0h9e8f7e8bjvolrhlvmd611tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
